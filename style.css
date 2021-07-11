@@ -1,0 +1,37 @@
+.bd{
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+table.head{
+    margin-left: auto;
+    margin-right: auto;
+}
+.subdv{
+    background-color: cadetblue;
+    border: 1px solid black;
+}
+.subdv ul{
+    display: inline-flex;
+    list-style: none;
+    padding-bottom:1pc;
+    height: 1px;
+}
+.subdv ul li{
+    padding-left: 3pc;
+    margin-bottom: auto;   
+}
+.main{
+    margin-top:0pc;
+    height:50pc;
+}
+table.mainsub_table
+{ 
+    margin-top: auto;
+    width:70px;
+    padding-top: 0mm;
+    border-right: 1px solid grey;
+}
+table.mainsub_table tr td{
+    padding-top: 0mm;
+
+}
